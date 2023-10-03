@@ -4,8 +4,15 @@
 
 Continuos Data Set provided from kaggle: https://www.kaggle.com/datasets/epa/fuel-economy
 
+Does switching fuel, drives, and vehicle types significantly impact the following?
 
-Using descriptive & inferential statistics, along with Excel visualizations. I needed to show how vehicle types, manufacturers, and technical specs affect fuel economy and annual fuel costs.
+•Miles per gallon
+
+•CO2 consumption
+
+•Save or spend (5-year)
+
+•Electricity consumption (specifically electric vehicles)
 
 
 There are 5 worksheets in this workbook, bellow I will describe the importance of what each sheet does.
