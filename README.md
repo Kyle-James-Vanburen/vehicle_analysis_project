@@ -7,6 +7,45 @@ The Vehicle Analysis Project aims to explore the impact of different factors, in
 ## Data Source ##
 • Dataset: https://www.kaggle.com/datasets/epa/fuel-economy
 
+## Research Question and Hypotheses ##
+
+**Research Question:**
+Does switching fuel types, drives, and vehicle types significantly impact the following factors?
+
+• Miles per gallon (MPG)
+
+• CO2 consumption
+
+• Save or spend over 5 years
+
+• Electricity consumption (specifically for electric vehicles)
+
+**Hypotheses:**
+
+**1. Null Hypothesis 1 (H0):**
+Switching fuel types has no effect on city & highway MPG.
+
+**Alternate Hypothesis 1 (Ha):**
+Switching fuel types does influence city & highway MPG.
+
+**2. Null Hypothesis 2 (H0):**
+Switching vehicle drives has no effect on 5-year savings.
+
+**Alternate Hypothesis 2 (Ha):**
+Switching vehicle drives does influence 5-year savings.
+
+**3. Null Hypothesis 3 (H0):**
+Switching fuel types has no effect on tailpipe CO2 levels.
+
+**Alternate Hypothesis 3 (Ha):**
+Switching fuel types does influence tailpipe CO2 levels.
+
+**4. Null Hypothesis 4 (H0):**
+Switching terrain has no effect on electricity consumption.
+
+**Alternate Hypothesis 4 (Ha):**
+Switching terrain does have an effect on electricity consumption.
+
 ## Analysis Sections ##
 
 #### 1. EPA Fuel Economy Data ####
@@ -28,6 +67,20 @@ Perform t-tests between Front-Wheel and Rear-Wheel drive vehicles to analyze 5 y
 #### 5. Tesla Electric Car Analysis ####
 
 Conduct t-tests for Tesla electric cars' highway and city consumption. Visualize the results and identify Tesla as the leading electric car manufacturer for savings. Explore top savings by Tesla models using insightful bar charts.
+
+## Conclusion ##
+
+**Conclusion 1:**
+There is a significant difference between city and highway miles per gallon (mpg) concerning different fuel types. The null hypothesis, stating no difference, is rejected.
+
+**Conclusion 2:**
+A significant difference exists between spending and saving based on different vehicle drives. The null hypothesis, suggesting no difference, is rejected.
+
+**Conclusion 3:**
+Significant differences are observed in tailpipe CO2 levels across different fuel types. The null hypothesis, indicating no difference, is rejected.
+
+**Conclusion 4:**
+There is a significant difference in electricity consumption related to different terrains. The null hypothesis, assuming no difference, is rejected.
 
 
 CONTACT: If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
