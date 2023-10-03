@@ -2,9 +2,11 @@
 
 ## Imformative and easy to read descriptive & inferential statistics Excel visualizations with a PowerPoint presentation.
 
+Continuos Data Set provided from kaggle: https://www.kaggle.com/datasets/epa/fuel-economy
 
-Using descriptive & inferential statistics, along with Excel visualizations. I was able to show how vehicle types, manufacturers, and technical specs affect fuel economy and annual fuel costs.
-Using Excel pivot tables, pivot charts, and independent sampling t- test. I created an in-depth power point presentation.
+
+Using descriptive & inferential statistics, along with Excel visualizations. I needed to show how vehicle types, manufacturers, and technical specs affect fuel economy and annual fuel costs.
+Using Excel pivot tables, pivot charts, and independent sampling t- test. Along with the Excel workbook, I have the PowerPoint attached. Which has been presented to the companies business team. 
 
 There are 5 worksheets in this workbook, bellow I will describe the importance of what each sheet does.
 
@@ -27,6 +29,16 @@ There are 5 worksheets in this workbook, bellow I will describe the importance o
    to my t-test. The second column chart to show that Tesla is the best saving electric car manufacture in the industry. And, I included a bar chart to show the top savings by Tesla models.
 
 
-Using the t -test method, I was able to use my confidence interval levels to prove whether to reject or accept the null hypothesis with confidence.
+Using the t-test method, I was able to use my confidence interval levels to prove whether to reject or accept the null hypothesis with confidence.
 
-ALONG with the Excel workbook, I have the PowerPoint attached. Which has been presented to the companies business team. 
+•For increased results on MPG go with Volkswagen(diesel fuel)
+
+•For increased results on savings with a 2-drive vehicle  go with Geo
+
+•For increased results on low Co2 consumption go with Pontiac(regular fuel)
+
+•For increased results on savings with tesla go with Model S (60kw-hr)
+
+
+
+CONTACT: If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
