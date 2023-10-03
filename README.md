@@ -1,53 +1,33 @@
-# vehicle_analysis_project
+# Vehicle Analysis Project
 
-## Imformative and easy to read descriptive & inferential statistics Excel visualizations with a PowerPoint presentation.
+**Introduction:**
 
-Continuos Data Set provided from kaggle: https://www.kaggle.com/datasets/epa/fuel-economy
+The Vehicle Analysis Project aims to explore the impact of different factors, including fuel types, drives, and vehicle types, on critical aspects such as miles per gallon, CO2 consumption, and savings. Utilizing data from the continuous dataset provided by Kaggle, this analysis delves into the nuances of vehicle performance and efficiency.
 
-Does switching fuel, drives, and vehicle types significantly impact the following?
+## Data Source ##
+• Dataset: https://www.kaggle.com/datasets/epa/fuel-economy
 
-•Miles per gallon
+## Analysis Sections ##
 
-•CO2 consumption
+#### 1. EPA Fuel Economy Data ####
 
-•Save or spend (5-year)
+This sheet provides detailed information on vehicle types, manufacturers, and technical specifications. Explore columns such as CO2 levels, city, and highway MPG specs, as well as specifications for 4WD, AWD, FWD, and RWD vehicles.
 
-•Electricity consumption (specifically electric vehicles)
+#### 2. City & Highway MPG Comparison ####
 
+Conduct t-tests comparing Diesel and Regular gasoline on City and Highway MPG. Visualize the results with column charts featuring candlesticks for enhanced understanding. Identify the most cost-effective diesel cars through insightful column charts.
 
-There are 5 worksheets in this workbook, bellow I will describe the importance of what each sheet does.
+#### 3. CO2 Consumption Analysis ####
 
+Compare Regular and Premium gasoline on tailpipe CO2 consumption using t-tests. Visualize the results for a clearer understanding of the differences. Discover the best regular fuel cars with minimal CO2 consumption through detailed column charts.
 
-1. Epa Fuel Economy - Data of vehicle types, manufacturers, and technical specs. Some in depth column examples on this sheet would be CO2 levels and consumption.
-  City and highway MPG specs. And even specs for 4WD, AWD, FWD, and RWD vehicles.
+#### 4. Front & Rear-Wheel Drive Comparison ####
 
-2. City & Highway mpg- This sheet has sample t-testing between Diesel and Regular gasoline on City and Highway MPG. Along with the t-test you will see on the right side of the sheet
-   I have column charts with candle sticks to visualize my testing for a more digestible understanding between Diesel and City gasoline miles per gallon.
-   As well, I have a save or spend by diesel fuel car manufactures column chart. Which helps show which diesel car is the most bang for your buck!
+Perform t-tests between Front-Wheel and Rear-Wheel drive vehicles to analyze 5 years save-or-spend data. Visualize the results with comprehensive column graphs and identify top savings by FWD car manufacturers.
 
-3. CO2 Consumption - This sheet has sample t-testing between Regular and Premium gasoline on tailpipe CO2 consumption. Same with sheet #2, on the right hand side of this sheet.
-   I have column charts with candle sticks to visualize my testing for a more digestible understanding between Regular and Premium gasoline CO2 levels. And, a seperate column chart
-   that shows the best regular fuel cars that have the least ammount of CO2 cosumption.
+#### 5. Tesla Electric Car Analysis ####
 
-4. Front & Rear wheel - This sheet has sample t-testing between Front-Wheel & Rear-Wheel drive vehicles on 5 years save or spend. I have two column graphs one to help
-   visualize my t-test. Then, the second column chart to show the top savings by FWD car manufactures.
-
-5. Tesla - Last sheet was to do some t-testing for electric car buyers! I did a t-test for tesla on highway and city consumption. As well, I made two column charts one to show a visualized understanding
-   to my t-test. The second column chart to show that Tesla is the best saving electric car manufacture in the industry. And, I included a bar chart to show the top savings by Tesla models.
-
-
-Using the t-test method, I was able to use my confidence interval levels to prove whether to reject or accept the null hypothesis with confidence.
-
-CALL TO ACTION:
-
-•For increased results on MPG go with Volkswagen(diesel fuel)
-
-•For increased results on savings with a 2-drive vehicle  go with Geo
-
-•For increased results on low Co2 consumption go with Pontiac(regular fuel)
-
-•For increased results on savings with tesla go with Model S (60kw-hr)
-
+Conduct t-tests for Tesla electric cars' highway and city consumption. Visualize the results and identify Tesla as the leading electric car manufacturer for savings. Explore top savings by Tesla models using insightful bar charts.
 
 
 CONTACT: If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
