@@ -6,7 +6,7 @@ Continuos Data Set provided from kaggle: https://www.kaggle.com/datasets/epa/fue
 
 
 Using descriptive & inferential statistics, along with Excel visualizations. I needed to show how vehicle types, manufacturers, and technical specs affect fuel economy and annual fuel costs.
-Using Excel pivot tables, pivot charts, and independent sampling t- test. Along with the Excel workbook, I have the PowerPoint attached. Which has been presented to the companies business team. 
+
 
 There are 5 worksheets in this workbook, bellow I will describe the importance of what each sheet does.
 
