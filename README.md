@@ -38,6 +38,8 @@ There are 5 worksheets in this workbook, bellow I will describe the importance o
 
 Using the t-test method, I was able to use my confidence interval levels to prove whether to reject or accept the null hypothesis with confidence.
 
+CALL TO ACTION:
+
 •For increased results on MPG go with Volkswagen(diesel fuel)
 
 •For increased results on savings with a 2-drive vehicle  go with Geo
