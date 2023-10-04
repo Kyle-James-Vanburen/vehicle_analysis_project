@@ -90,6 +90,14 @@ Significant differences are observed in tailpipe CO2 levels across different fue
 **Conclusion 4:**
 There is a significant difference in electricity consumption related to different terrains. The null hypothesis, assuming no difference, is rejected.
 
+## Call to Action ##
+• For increased MPG: Choose Volkswagen (diesel fuel).
+
+• For savings with 2-drive vehicles: Opt for Geo.
+
+• For low CO2 consumption: Consider Pontiac (regular fuel).
+
+• For savings with Tesla: Select Model S (60kw-hr).
 
 ## CONTACT: ##
 If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
