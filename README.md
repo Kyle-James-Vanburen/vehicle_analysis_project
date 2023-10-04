@@ -56,17 +56,25 @@ This sheet provides detailed information on vehicle types, manufacturers, and te
 
 Conduct t-tests comparing Diesel and Regular gasoline on City and Highway MPG. Visualize the results with column charts featuring candlesticks for enhanced understanding. Identify the most cost-effective diesel cars through insightful column charts.
 
+![City & Highway MPG Comparison](https://raw.githubusercontent.com/Kyle-James-Vanburen/vehicle_analysis_project/main/City%20%26%20Highway%20MPG.PNG)
+
 #### 3. CO2 Consumption Analysis ####
 
 Compare Regular and Premium gasoline on tailpipe CO2 consumption using t-tests. Visualize the results for a clearer understanding of the differences. Discover the best regular fuel cars with minimal CO2 consumption through detailed column charts.
+
+![CO2 Comparison](https://raw.githubusercontent.com/Kyle-James-Vanburen/vehicle_analysis_project/main/CO2%20Consumption.PNG)
 
 #### 4. Front & Rear-Wheel Drive Comparison ####
 
 Perform t-tests between Front-Wheel and Rear-Wheel drive vehicles to analyze 5 years save-or-spend data. Visualize the results with comprehensive column graphs and identify top savings by FWD car manufacturers.
 
+![FW & RW Comparison](https://raw.githubusercontent.com/Kyle-James-Vanburen/vehicle_analysis_project/main/FW%20%26%20RW%20Comparison.PNG)
+
 #### 5. Tesla Electric Car Analysis ####
 
 Conduct t-tests for Tesla electric cars' highway and city consumption. Visualize the results and identify Tesla as the leading electric car manufacturer for savings. Explore top savings by Tesla models using insightful bar charts.
+
+![Highway & City Consumption Comparison](https://raw.githubusercontent.com/Kyle-James-Vanburen/vehicle_analysis_project/main/Tesla%20Analysis.PNG)
 
 ## Conclusion ##
 
