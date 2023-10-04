@@ -10,6 +10,7 @@ The Vehicle Analysis Project aims to explore the impact of different factors, in
 ## Research Question and Hypotheses ##
 
 **Research Question:**
+
 Does switching fuel types, drives, and vehicle types significantly impact the following factors?
 
 • Miles per gallon (MPG)
