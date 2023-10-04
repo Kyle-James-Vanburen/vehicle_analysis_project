@@ -100,5 +100,5 @@ There is a significant difference in electricity consumption related to differen
 
 • For savings with Tesla: Select Model S (60kw-hr).
 
-## CONTACT: ##
+### CONTACT: ###
 If you have any questions or need further assistance, please feel free to contact the project maintainer at vanburen.kyle@yahoo.com.
